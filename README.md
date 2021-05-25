@@ -4,7 +4,7 @@
 
 # My Portfolio
 
-https://unduhduhsea.github.io/React-Employee-Directory/
+https://unduhduhsea.github.io/Portfolio/
 
 ![budget-tracker](images/githHubPortfolio.jpg)
 
