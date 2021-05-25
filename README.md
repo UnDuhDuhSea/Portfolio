@@ -39,3 +39,6 @@ Please feel free to send me an email or reach out on github!
 Github: [https://github.com/UnDuhDuhSea](https://github.com/UnDuhDuhSea)
 
 Email: [tafimba@gmail.com](https://github.com/UnDuhDuhSea)
+
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
+[linkedin-url]: www.linkedin.com/in/tyler-abegg
