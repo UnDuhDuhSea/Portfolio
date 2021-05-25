@@ -41,4 +41,4 @@ Github: [https://github.com/UnDuhDuhSea](https://github.com/UnDuhDuhSea)
 Email: [tafimba@gmail.com](https://github.com/UnDuhDuhSea)
 
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: www.linkedin.com/in/tyler-abegg
+[linkedin-url]: https://www.linkedin.com/in/tyler-abegg/
